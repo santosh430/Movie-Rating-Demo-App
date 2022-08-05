@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieRatingApp</string>
+    <string name="movies">Movies</string>
+    <string name="download">Download</string>
+    <string name="_6_9_10">6.9/10</string>
+    <string name="imdb">IMDb</string>
+</resources>
